@@ -10,3 +10,5 @@ TODOs:
 - Add Github action for automatic exports upon pushes to master branch
 - Clean up the visual UI a bit more
 - Introduce code formatting for TailwindCSS
+
+A big TODO that you will notice when going to the site is that it isn't using HTTPS.. I need to figure out have to link this all up between my domain manager and the S3 bucket, it might be that I need to deliver from the CDN to accomplish this. 
